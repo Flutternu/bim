@@ -1,4 +1,3 @@
-theme: minima:
-  skin: dark
+theme: minima
 title: titeltest
 author: autortest
